@@ -23,8 +23,6 @@ Visit [`localhost:4000`](http://localhost:4000) from your browser.
 
 ### Sprint 1 (1 week)
 
-- [ ] Basic project setup
-- [ ] User authentication (registration/login)
 - [ ] Database schema for users and messages
 - [ ] Basic UI layout
 
@@ -37,9 +35,8 @@ Visit [`localhost:4000`](http://localhost:4000) from your browser.
 
 ### Sprint 3 (1 week)
 
-- [ ] Direct messaging functionality
+- [ ] User authentication (registration/login)
 - [ ] User profiles
-- [ ] Online status indicators
 - [ ] Basic error handling
 
 ### Sprint 4 (1 week)
